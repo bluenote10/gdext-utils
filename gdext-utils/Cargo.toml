@@ -1,0 +1,10 @@
+[package]
+name = "gdext-utils"
+version = "0.0.1"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+godot = { git = "https://github.com/godot-rust/gdext", rev = "fe5b02ba6abec0ba2d8fff612368a9c896872810", default-features = false, features = ["formatted", "codegen-full"] }

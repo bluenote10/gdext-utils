@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "gdext-utils",
+    "gdext-utils-demo",
+]
+
+resolver = "2"
