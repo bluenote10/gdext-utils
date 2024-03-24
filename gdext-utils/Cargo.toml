@@ -1,7 +1,10 @@
 [package]
+
 name = "gdext-utils"
-version = "0.0.1"
+version = "0.0.0"
 edition = "2021"
+description = "Some utils for gdext"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
